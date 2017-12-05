@@ -30,7 +30,7 @@ Content
 聊天機器人的架構主要參考自 [Facebook for developers 官方技術文件](https://developers.facebook.com/products/messenger/overview/)。
 1. 使用者將訊息經 RentBot 傳送至 Messenger Platform
 2. Messenger Platform 透過 Webhook 與後端伺服器連接。
-3. 伺服器收到指令，執行 .py 檔案
+3. 伺服器收到指令，執行 `.py` 檔案
 4. 伺服器透過 API 將結果傳回 Messenger Platform
 5. RentBot 發送訊息給使用者
 6. 後端伺服器的更新透過 Github 多人協作並即時同步穩定版本
