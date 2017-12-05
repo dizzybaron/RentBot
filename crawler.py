@@ -11,20 +11,16 @@ import time
 browser = webdriver.Firefox()
 # get to the target page
 browser.get('https://rent.591.com.tw/home/rent/index/r1s7k3.html?kind=1&region=1&section=7')
+time.sleep(1)
+browser.find_element_by_id("area-box-close").click()
+browser.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+
 # start crawler
 soup = BeautifulSoup(browser.page_source, "lxml")
-while len(soup.select('.pageNext')) > 0:
-#    for price in soup.select('.price i'):
-#        print(price.text)
+for address in soup.select('p.lightBox em'):
+    print(address.text)
+#browser.find_element_by_xpath("//a[5]/span").click()
+browser.find_element_by_class_name('pageNext').click()
 
-#pending for resolution
-#    for name in soup.select('h3 a'):
-#        print(name.text)
-    for address in soup.select('p.lightBox em'):
-        print(address.text)
-
-    time.sleep(random.randrange(1,5))
-    browser.find_element_by_class_name('pageNext').click()
-    soup = BeautifulSoup(browser.page_source, "lxml")
-# close the browser
-# browser.quit()
+time.sleep(10)
+browser.quit()
