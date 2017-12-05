@@ -24,7 +24,7 @@ while len(soup.select('.pageNext')) > 0:
         print(address.text)
 
     time.sleep(random.randrange(1,5))
-    browser.find_element_by_link_text(u"下一頁").click()
+    browser.find_element_by_class_name('pageNext').click()
     soup = BeautifulSoup(browser.page_source, "lxml")
 # close the browser
-browser.close()
+# browser.quit()
