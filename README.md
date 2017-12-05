@@ -25,7 +25,7 @@ RentBot is a Facebook Messenger bot written in Python that helps people to find 
 ## 🤖 功能說明（執行成果畫面圖文說明）
 Content
 ## 🚦 程式流程、資料分析流程或系統架構圖
-![MessengerBotArchitecture](/img/struc.png)
+![MessengerBotArchitecture](./img/struc.png)
 （做一張上面的圖）
 聊天機器人的架構主要參考自 [Facebook for developers 官方技術文件](https://developers.facebook.com/products/messenger/overview/)。
 1. 使用者將訊息經 RentBot 傳送至 Messenger Platform
