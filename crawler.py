@@ -19,8 +19,12 @@ soup = BeautifulSoup(browser.page_source, "lxml")
 
 while len(soup.select('.pageNext')) > 0:
     browser.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+    for name in soup.select('h3 a'):
+        print(name.text)
     for address in soup.select('p.lightBox em'):
         print(address.text)
+    for price in soup.select('.price i'):
+        print(price.text)
     browser.find_element_by_class_name('pageNext').click()
     time.sleep(random.randrange(5,10))
     soup = BeautifulSoup(browser.page_source, "lxml")
