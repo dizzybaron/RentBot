@@ -1,4 +1,5 @@
-# RentBot
+[![RentBotBanner](img/RentBotBanner.svg)](https://facebook.com/ask.rentbot/)
+![RentBot_pattern](img/RentBot_pattern.png)
 👓 RentBot 是一個基於 Python 寫成的 Messenger 聊天機器人。想快速找房不必特意下載其他 APP，只要開始對話，RentBot 就能依照地點、預算偏好等條件快速推薦最符合你的房源。
 RentBot is a Facebook Messenger bot written in Python that helps people to find a house rental easily without downloading additional apps. Simply start conversation, and Rentbot will recommend you the best match based on your preferences.
 
