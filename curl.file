@@ -1,0 +1,11 @@
+curl -X POST -H "Content-Type: application/json" -d '{
+  "greeting":[
+      {
+        "locale":"default",
+        "text":"嗨{{user_first_name}}！我是RentBot，幫你輕鬆找租屋。馬上按下「開始聊天」找到自己新的家！"
+      }, {
+        "locale":"en_US",
+        "text":"Hi {{user_first_name}}! I am RentBot. Simply start conversation, and I will recommend you the best match."
+      }
+    ]
+}' "https://graph.facebook.com/v2.11/me/messenger_profile?access_token=EAAHqP0d6yQ4BAJRkGwAYcDpt5WOlNx5yWbtZCntMRwqSwRop9fNBDMNAg03ZCDpC4OJ3pnz56EWqr9ERrN9Dti0EImUJFsk34NSuAYgJqxNhxC7HfsV7CL5UYiZA8eCqUoDPrZCyZBHDZAIsVf0nWidFg3ZAcdKSWZBeeMxCWaE6nEcj0wymhYut"

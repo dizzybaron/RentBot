@@ -50,7 +50,40 @@ def send_message(token, recipient, text):
         params={"access_token": token},
         data=json.dumps({
             "recipient": {"id": recipient},
-            "message": {"text": text.decode('unicode_escape')}
+            "message": {"text": "真高興看到你加入，現在馬上開始吧！"}
+        }),
+        headers={'Content-type': 'application/json'})
+    if r.status_code != requests.codes.ok:
+        print(r.text)
+
+def button_message(token, recipient, text):
+    # Send the message with button template
+
+    r = requests.post("https://graph.facebook.com/v2.11/me/messages",
+        params={"access_token": token},
+        data=json.dumps({
+            "recipient": {"id": recipient},
+            "message": {
+                "attachment":{
+                  "type":"template",
+                  "payload":{
+                    "template_type":"button",
+                    "text":"想叫我做什麼呢？",
+                    "buttons":[
+                      {
+                        "type":"web_url",
+                        "url":"https://www.facebook.com/profile.php?id=100000483572382",
+                        "title":"到大師的網站去"
+                      },
+                      {
+                        "type":"web_url",
+                        "url":"https://www.messenger.com",
+                        "title":"Visit Messenger"
+                      },
+                    ]
+                  }
+                }
+              }
         }),
         headers={'Content-type': 'application/json'})
     if r.status_code != requests.codes.ok:
