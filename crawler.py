@@ -25,6 +25,8 @@ while len(soup.select('.pageNext')) > 0:
         print(address.text)
     for price in soup.select('.price i'):
         print(price.text)
+    if len(soup.select('.pageBar .last')) > 0:
+        break
     browser.find_element_by_class_name('pageNext').click()
     time.sleep(random.randrange(5,10))
     soup = BeautifulSoup(browser.page_source, "lxml")
