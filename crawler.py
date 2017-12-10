@@ -6,7 +6,9 @@ import time
 from bs4 import BeautifulSoup
 import random
 import time
-
+from pyvirtualdisplay import Display
+display = Display(visible=0, size=(800, 600))
+display.start()
 # crawler function
 def crawler():
     time.sleep(3)
