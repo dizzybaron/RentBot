@@ -1,19 +1,15 @@
 from flask import Flask, request
-import requests
+import requests, json
+import logging
+
+# set up logging file
+logging.basicConfig(filename='log',level=logging.DEBUG)
 
 app = Flask(__name__)
 
 ACCESS_TOKEN = "EAAHqP0d6yQ4BAJRkGwAYcDpt5WOlNx5yWbtZCntMRwqSwRop9fNBDMNAg03ZCDpC4OJ3pnz56EWqr9ERrN9Dti0EImUJFsk34NSuAYgJqxNhxC7HfsV7CL5UYiZA8eCqUoDPrZCyZBHDZAIsVf0nWidFg3ZAcdKSWZBeeMxCWaE6nEcj0wymhYut"
 VERIFY_TOKEN = "superbug"
-
-def reply(user_id, msg):
-    data = {
-        "recipient": {"id": user_id},
-        "message": {"text": msg}
-    }
-    resp = requests.post("https://graph.facebook.com/v2.11/me/messages?access_token=" + ACCESS_TOKEN, json=data)
-    print(resp.content)
-
+     
 
 @app.route('/', methods=['GET'])
 def handle_verification():
@@ -25,44 +21,53 @@ def handle_verification():
 
 @app.route('/', methods=['POST'])
 def handle_incoming_messages():
-    data = request.json
-    sender = data['entry'][0]['messaging'][0]['sender']['id']
-    message = data['entry'][0]['messaging'][0]['message']['text']
-    reply(sender, message)
-
+    data = request.get_json()
+    logging.info(data)
+    if data["object"] == "page":
+        for entry in data["entry"]:
+            for messaging_event in entry["messaging"]:
+                if messaging_event.get("message"):
+                    sender_id = messaging_event["sender"]["id"]
+                    recipient_id = messaging_event["recipient"]["id"]
+                    message_text = "we don't care"
+                    # send to initiation
+                    send_button_message(sender_id)
     return "ok"
 
-def messaging_events(payload):
-    # Generate tuples of (sender_id, message_text) from the provided payload.
-    data = json.loads(payload)
-    messaging_events = data["entry"][0]["messaging"]
-    for event in messaging_events:
-        if "message" in event and "text" in event["message"]:
-            yield event["sender"]["id"], event["message"]["text"].encode('unicode_escape')
-        else:
-            yield event["sender"]["id"], "I can't echo this"
-
-
-def send_message(token, recipient, text):
+def send_text_message(sender_id, message_text):
     # Send the message text to recipient with id recipient.
 
     r = requests.post("https://graph.facebook.com/v2.11/me/messages",
-        params={"access_token": token},
+        params={"access_token": ACCESS_TOKEN},
         data=json.dumps({
-            "recipient": {"id": recipient},
-            "message": {"text": "真高興看到你加入，現在馬上開始吧！"}
+            "recipient": {"id": sender_id},
+            "message": {"text": message_text}
         }),
         headers={'Content-type': 'application/json'})
     if r.status_code != requests.codes.ok:
         print(r.text)
-
-def button_message(token, recipient, text):
+        
+def send_post_back(sender_id):
+    # post_back
+    r = requests.post("https://graph.facebook.com/v2.6/me/messenger_profile",
+        params={"access_token": ACCESS_TOKEN},
+        data=json.dumps({
+            "recipient": {"id": sender_id},
+            "message":{
+                "get_started": {"payload": "Start"}
+                }
+        }),
+        headers={'Content-type': 'application/json'})
+    if r.status_code != requests.codes.ok:
+        print(r.text)
+    
+def send_button_message(sender_id):
     # Send the message with button template
 
     r = requests.post("https://graph.facebook.com/v2.11/me/messages",
-        params={"access_token": token},
+        params={"access_token": ACCESS_TOKEN},
         data=json.dumps({
-            "recipient": {"id": recipient},
+            "recipient": {"id": sender_id},
             "message": {
                 "attachment":{
                   "type":"template",
@@ -71,9 +76,9 @@ def button_message(token, recipient, text):
                     "text":"想叫我做什麼呢？",
                     "buttons":[
                       {
-                        "type":"web_url",
-                        "url":"https://www.facebook.com/profile.php?id=100000483572382",
-                        "title":"到大師的網站去"
+                        "type":"postback",
+                          "payload": "TAIPEI",
+                        "title":"台北市"
                       },
                       {
                         "type":"web_url",
