@@ -19,6 +19,9 @@ def crawler():
             print(address.text)
         for price in soup.select('.price i'):
             print(price.text)
+        for link in soup.select('h3 a'):
+            simple_link = link.get('href')
+            print('http:'+simple_link.replace(" ", ""))
         if len(soup.select('.pageBar .last')) > 0:
             break
         browser.find_element_by_class_name('pageNext').click()
