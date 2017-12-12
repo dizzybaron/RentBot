@@ -9,6 +9,7 @@ import time
 from pyvirtualdisplay import Display
 display = Display(visible=0, size=(800, 600))
 display.start()
+
 # crawler function
 def crawler():
     time.sleep(3)
@@ -29,11 +30,14 @@ def crawler():
 
 # open browser(Firefox)
 browser = webdriver.Firefox()
+
 # get to the target page
 browser.get('https://rent.591.com.tw/?kind=0&region=1')
 time.sleep(1)
+
 # close the advertisement window
 browser.find_element_by_id("area-box-close").click()
+
 # choose city
 def dis_city():
     print('選擇一個縣市：')
@@ -46,6 +50,7 @@ def dis_city():
     print('東部：')
     print('18.台東縣 / 19.花蓮縣 / 20.澎湖縣 / 21.金門縣 / 22.連江縣')
 dis_city()
+
 city_choice = int(input("請輸入您的選擇(數字):"))
 browser.find_element_by_xpath("//div[@id='search-location']/span").click()
 time.sleep(2)
@@ -97,6 +102,7 @@ elif city_choice == 22:
 else:
     browser.find_element_by_xpath(u"(//a[contains(text(),'台北市')])[2]").click()
     print('你什麼都沒選，已預設為台北市')
+
 # choose keyword
 keyword_bar = browser.find_element_by_class_name('searchInput')
 key_in_keyword_bar = str(input('請輸入關鍵字（社區、街道、商圈...）'))
@@ -104,6 +110,7 @@ keyword_bar.send_keys(key_in_keyword_bar)
 browser.find_element_by_class_name("searchBtn").click()
 time.sleep(3)
 browser.find_element_by_class_name("searchBtn").click()
+
 # Now use the filter to select ideal rental item
 # choose the type
 def disp_type():
@@ -113,6 +120,7 @@ def disp_type():
     print('3. 分租套房')
     print('4. 雅房')
 disp_type()
+
 type_choice = int(input("請輸入您的選擇(數字):"))
 if type_choice == 1:
     browser.find_element_by_xpath("//div[@id='search-kind']/span[2]").click()
@@ -161,6 +169,7 @@ elif floor_choice == 4:
 else:
     browser.find_element_by_xpath("(//button[@type='button'])[2]").click()
     browser.find_element_by_link_text(u"不限").click()
+
 # choose the elevator
 def dis_elevator():
     print('是否要有電梯？')
@@ -173,6 +182,7 @@ if elevator_choice == 1:
     browser.find_element_by_xpath("//div[@id='rentOther']/ul/li[2]/a/label/em").click()
 else:
     time.sleep(1)
+
 # rule out rooftop add-ons
 def dis_rooftop():
     print('是否要排除頂樓加蓋？')
@@ -184,6 +194,7 @@ if rooftop_choice == 1:
     browser.find_element_by_xpath("//div[@id='container']/section[3]/section/div[6]/ul/li[2]/label").click()
 else:
     time.sleep(1)
+
 # choose cooking
 def dis_cooking():
     print('是否需要開伙？')
@@ -196,6 +207,7 @@ if cooking_choice == 1:
     browser.find_element_by_xpath("//div[@id='rentOther']/ul/li[4]/a/label/em").click()
 else:
     time.sleep(1)
+
 # choose the budget
 custom_min_bar = browser.find_element_by_class_name('rentPrice-min')
 key_in_custom_min_bar = str(input('請輸入預算下限'))
@@ -204,7 +216,9 @@ custom_max_bar = browser.find_element_by_class_name('rentPrice-max')
 key_in_custom_max_bar = str(input('請輸入預算上限'))
 custom_max_bar.send_keys(key_in_custom_max_bar)
 browser.find_element_by_class_name("search-input-btn").click()
+
 # start crawler
 crawler()
+
 #close the browser
 browser.quit()

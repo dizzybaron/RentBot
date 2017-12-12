@@ -5315,3 +5315,49 @@ JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using 
 1512845306815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512845312343	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=2&region=8&keywords=%E9%80%A2%E7%94%B2&area=0,10&floor=2,6&other=lift,cook&not_cover=1&rentprice=5000,20000#breadList"
 1512845312606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512887471171	geckodriver	INFO	geckodriver 0.19.1
+1512887471184	geckodriver	INFO	Listening on 127.0.0.1:44591
+1512887647941	geckodriver	INFO	geckodriver 0.19.1
+1512887647952	geckodriver	INFO	Listening on 127.0.0.1:43464
+1512887649209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QZ3GXTFlX7Br"
+Error: GDK_BACKEND does not match available displays
+1512888046249	geckodriver	INFO	geckodriver 0.19.1
+1512888046261	geckodriver	INFO	Listening on 127.0.0.1:57154
+1512888047485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Huxank3fyDJW"
+Error: GDK_BACKEND does not match available displays
+1512889573525	geckodriver	INFO	geckodriver 0.18.0
+1512889573549	geckodriver	INFO	Listening on 127.0.0.1:51521
+1512889574758	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1512889576733	Marionette	INFO	Enabled via --marionette
+1512889660910	geckodriver	INFO	geckodriver 0.18.0
+1512889661088	geckodriver	INFO	Listening on 127.0.0.1:53244
+1512889671711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1512889715063	Marionette	INFO	Listening on port 44220
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1512889751539	geckodriver	INFO	geckodriver 0.18.0
+1512889751619	geckodriver	INFO	Listening on 127.0.0.1:52944
+1512889752663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
