@@ -2685,3 +2685,27 @@ INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 151307
 INFO:werkzeug:173.252.124.209 - - [12/Dec/2017 10:32:41] "POST / HTTP/1.1" 200 -
 INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513074761306, 'messaging': [{'sender': {'id': '1881916055181745'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513074761290, 'delivery': {'mids': ['mid.$cAAanlwE9crxme43kqVgSkicRUwHP'], 'watermark': 1513074760873, 'seq': 0}}]}]}
 INFO:werkzeug:66.220.159.113 - - [12/Dec/2017 10:32:41] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513077257837, 'messaging': [{'recipient': {'id': '1967456193472494'}, 'timestamp': 1513077257837, 'sender': {'id': '1838151959592076'}, 'postback': {'payload': 'first hand shake', 'title': '開始使用'}}]}]}
+INFO:werkzeug:66.220.152.175 - - [12/Dec/2017 11:14:17] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513077260962, 'messaging': [{'recipient': {'id': '1967456193472494'}, 'timestamp': 1513077260962, 'sender': {'id': '1838151959592076'}, 'postback': {'payload': 'first hand shake', 'title': '開始使用'}}]}]}
+INFO:werkzeug:69.63.188.209 - - [12/Dec/2017 11:14:21] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513077359063, 'messaging': [{'recipient': {'id': '1967456193472494'}, 'timestamp': 1513077359063, 'sender': {'id': '1838151959592076'}, 'postback': {'payload': 'first hand shake', 'title': '開始使用'}}]}]}
+INFO:werkzeug:173.252.123.35 - - [12/Dec/2017 11:15:59] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513079715363, 'messaging': [{'sender': {'id': '1608370012572315'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513079715175, 'message': {'quick_reply': {'payload': 'SEARCH_要'}, 'mid': 'mid.$cAAanlzrJHXBme9l9Z1gSpQ05eq8a', 'seq': 745864, 'text': '要'}}]}]}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "POST /v2.11/me/messages?access_token=EAAHqP0d6yQ4BAEcj87lDEzT1j7nZABVtfovA3HigtQsgf2ZCBz6mYx0nAwbKi6ldXclfsCMqggQH4bcghJTcTBEBg8QLdzAWecNZBveiKISHDZAudXs4ge1CqLfvJmPi5YkEo35m4gH5dNpFlfO10MCvCWZArUDXwQb89lGV7fBXC0BRahvBH HTTP/1.1" 200 85
+INFO:werkzeug:173.252.123.181 - - [12/Dec/2017 11:55:15] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513079715933, 'messaging': [{'sender': {'id': '1608370012572315'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513079715912, 'delivery': {'mids': ['mid.$cAAanlzrJHXBme9l_V1gSpQ2xYCrq'], 'watermark': 1513079715671, 'seq': 0}}]}]}
+INFO:werkzeug:66.220.156.17 - - [12/Dec/2017 11:55:16] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513079716021, 'messaging': [{'sender': {'id': '1608370012572315'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513079716002, 'delivery': {'mids': ['mid.$cAAanlzrJHXBme9l_V1gSpQ2xYCrq'], 'watermark': 1513079715671, 'seq': 0}}]}]}
+INFO:werkzeug:69.63.188.198 - - [12/Dec/2017 11:55:16] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513087799913, 'messaging': [{'sender': {'id': '1881916055181745'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513087799653, 'message': {'mid': 'mid.$cAAanlwE9crxmfFTZZVgSw-LQcEtW', 'seq': 973398, 'text': 'SEARCH'}}]}]}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "POST /v2.11/me/messages?access_token=EAAHqP0d6yQ4BAEcj87lDEzT1j7nZABVtfovA3HigtQsgf2ZCBz6mYx0nAwbKi6ldXclfsCMqggQH4bcghJTcTBEBg8QLdzAWecNZBveiKISHDZAudXs4ge1CqLfvJmPi5YkEo35m4gH5dNpFlfO10MCvCWZArUDXwQb89lGV7fBXC0BRahvBH HTTP/1.1" 200 85
+INFO:werkzeug:173.252.98.194 - - [12/Dec/2017 14:10:00] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513087801503, 'messaging': [{'sender': {'id': '1881916055181745'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513087801488, 'delivery': {'mids': ['mid.$cAAanlwE9crxmfFTcrlgSw-T2E14b'], 'watermark': 1513087800494, 'seq': 0}}]}]}
+INFO:werkzeug:173.252.98.27 - - [12/Dec/2017 14:10:02] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513087802405, 'messaging': [{'sender': {'id': '1881916055181745'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513087802386, 'delivery': {'mids': ['mid.$cAAanlwE9crxmfFTcrlgSw-T2E14b'], 'watermark': 1513087800494, 'seq': 0}}]}]}
+INFO:werkzeug:173.252.124.238 - - [12/Dec/2017 14:10:02] "POST / HTTP/1.1" 200 -
+INFO:root:{'object': 'page', 'entry': [{'id': '1967456193472494', 'time': 1513087803276, 'messaging': [{'sender': {'id': '1881916055181745'}, 'recipient': {'id': '1967456193472494'}, 'timestamp': 1513087803259, 'delivery': {'mids': ['mid.$cAAanlwE9crxmfFTcrlgSw-T2E14b'], 'watermark': 1513087800494, 'seq': 0}}]}]}
+INFO:werkzeug:173.252.98.200 - - [12/Dec/2017 14:10:03] "POST / HTTP/1.1" 200 -
