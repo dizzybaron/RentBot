@@ -27,7 +27,20 @@ RentBot is a Facebook Messenger bot written in Python that helps people to find 
 
 
 ## 🤖 功能說明（執行成果畫面圖文說明）
-Content
+
+<img src="img/SS_1.PNG" height="300">
+<img src="img/SS_2.PNG" height="300">
+<img src="img/SS_3.PNG" height="300">
+<img src="img/SS_4.PNG" height="300">
+<img src="img/SS_5.PNG" height="300">
+<img src="img/SS_6.PNG" height="300">
+<img src="img/SS_7.PNG" height="300">
+<img src="img/SS_8.PNG" height="300">
+<img src="img/SS_9.PNG" height="300">
+<img src="img/SS_10.PNG" height="300">
+<img src="img/SS_11.PNG" height="300">
+<img src="img/SS_12.PNG" height="300">
+
 ## 🚦 程式流程、資料分析流程或系統架構圖
 ![MessengerBotArchitecture](img/flow.png)
 聊天機器人的架構主要參考自 [Facebook for developers 官方技術文件](https://developers.facebook.com/products/messenger/overview/)。
@@ -41,7 +54,4 @@ Content
 
 
 ## 🎯 程式開發與執行環境說明
-爬蟲則使用 [Selenium](http://www.seleniumhq.org) 套件輔助，抓取後使用 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 、[Pandas](https://pandas.pydata.org) 操作資料。
-
-## 📝 程式碼與註解
-Content
+房源資料主要來自 591 租屋網站。資料爬蟲上使用 [Selenium](http://www.seleniumhq.org) 套件輔助，抓取後使用 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 、[Pandas](https://pandas.pydata.org) 操作資料。
