@@ -1,0 +1,155 @@
+#import selenium
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.keys import Keys
+# import time that will help our scraper wait
+import time
+# import beautiful sout
+from bs4 import BeautifulSoup
+import random
+# display to help ubuntu 16.06, geckodriver 0.18.0 work together
+from pyvirtualdisplay import Display
+display = Display(visible=0, size=(800, 600))
+display.start()
+
+import pandas as pd
+
+# crawler function
+def crawler():
+    time.sleep(3)
+    soup = BeautifulSoup(browser.page_source, "lxml")
+
+    df = pd.DataFrame(columns = ["title", "address", "price", "url"]) # the dataframe to return all the results to user
+    
+    while len(soup.select('.pageNext')) > 0:
+        
+        page_data = pd.DataFrame(columns = ["title", "address", "price", "url"]) # each page generates a dataframe
+        browser.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+        i = 0
+        for name in soup.select('h3 a'):
+            page_data.loc[str(i), 'title']  = name.text # returning title of that house)
+            i +=1
+        i = 0
+        for address in soup.select('p.lightBox em'):
+            page_data.loc[str(i), 'address'] = address.text # returning address
+            i +=1
+        i = 0
+        for price in soup.select('.price i'):
+            page_data.loc[str(i), 'address'] = price.text # returning address 
+            i += 1
+        df = df.append(page_data)
+
+        
+        if len(soup.select('.pageBar .last')) > 0:
+            break
+        browser.find_element_by_class_name('pageNext').click()
+        time.sleep(random.randrange(5,10))
+        soup = BeautifulSoup(browser.page_source, "lxml")
+
+    return(df)
+# open browser(Firefox)
+
+
+# get to the target page
+
+# click all params
+def clicking(user_series):
+    # open window and link to 591
+    print("loading brower")
+    browser = webdriver.Firefox()
+    browser.get('https://rent.591.com.tw/?kind=0&region=1')
+    time.sleep(1)
+
+    # close the advertisement window
+    browser.find_element_by_id("area-box-close").click()
+    
+    # what are these for?
+    browser.find_element_by_xpath("//div[@id='search-location']/span").click()
+    time.sleep(2)
+    browser.find_element_by_xpath("//div[@id='search-location']/span").click()
+
+    # click city
+    print('city')
+    xpath = u"(//a[contains(text(),"+ user_series['city']+u")])[2]"
+    browser.find_element_by_xpath(xpath).click()
+
+    # choose keyword
+    #keyword_bar = browser.find_element_by_class_name('searchInput')
+    #key_in_keyword_bar = str(input('請輸入關鍵字（社區、街道、商圈...）'))
+    #keyword_bar.send_keys(key_in_keyword_bar)
+    #browser.find_element_by_class_name("searchBtn").click()
+    #time.sleep(3)
+    #browser.find_element_by_class_name("searchBtn").click()
+
+
+    # choose the type
+    print('type')
+    type_to_span = {'整層住家': "2",
+                    '獨立套房': "3",
+                    '分租套房': "4",
+                    '雅房': "5",}
+    
+
+    if user_series['housetype'] != "不限":
+        browser.find_element_by_xpath("(//button[@type='button'])[2]").click()
+        x_path = "//div[@id='search-kind']/span["+type_to_span[user_series["housetype"]]+"]"
+        browser.find_element_by_xpath(x_path).click()
+
+    # choose the size
+    
+    size_to_span = {'10坪以下': "2",
+                    '10~20坪': "3"}
+
+    if user_series['size'] != '不限':
+        x_path = "//div[@id='search-plain']/span["+size_to_span[user_series['size']]+"]"
+        browser.find_element_by_xpath(x_path).click()
+    
+    # choose the floor
+    # dropdown menu
+    browser.find_element_by_xpath("(//button[@type='button'])[2]").click()
+    browser.find_element_by_link_text(user_series['floor']).click()
+
+    # choose the elevator
+    if user_series['elevator'] == '是':
+        browser.find_element_by_xpath("(//button[@type='button'])[5]").click()
+    browser.find_element_by_xpath("//div[@id='rentOther']/ul/li[2]/a/label/em").click()
+    
+    # rule out rooftop add-ons
+
+>    if user_series-#datag['rooftop'] == '是':
+        browser.find_element_by_xpath("//div[@id='container']/section[3]/section/div[6]/ul/li[2]/label").click()
+
+    time.sleep(1)
+
+    # choose cooking
+
+    if cooking_choice == '需要':
+        browser.find_element_by_xpath("(//button[@type='button'])[5]").click()
+        browser.find_element_by_xpath("//div[@id='rentOther']/ul/li[4]/a/label/em").click()
+
+    time.sleep(1)
+
+    # choose the budget
+    if user_series['budgetMax'] != '我太有錢':
+        custom_min_bar = browser.find_element_by_class_name('rentPrice-min')
+        if type(user_series['budgetMin']) == str: 
+            custom_min_bar.send_keys(user_series['budgetMin'])
+        else:
+            custom_min_bar.send_keys('0')
+            
+        custom_max_bar = browser.find_element_by_class_name('rentPrice-max')
+        custom_max_bar.send_keys(user_series['budgetMax'])
+        
+            
+
+    # click search
+    browser.find_element_by_class_name("search-input-btn").click()
+    print("finish")
+    # start crawler
+    crawler()
+
+    #close the browser
+    browser.quit()
+
+def quit_browser():
+    browser.quit()

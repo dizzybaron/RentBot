@@ -5361,3 +5361,1408 @@ JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: 
 1512889751539	geckodriver	INFO	geckodriver 0.18.0
 1512889751619	geckodriver	INFO	Listening on 127.0.0.1:52944
 1512889752663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513179691043	geckodriver	INFO	geckodriver 0.18.0
+1513179691057	geckodriver	INFO	Listening on 127.0.0.1:39926
+1513179692304	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513179694360	Marionette	INFO	Enabled via --marionette
+1513179700224	Marionette	INFO	Listening on port 36570
+1513179700487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513179700807	Marionette	DEBUG	Register listener.js for window 2147483649
+1513179701562	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513179705023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513179705024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513179707503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513179718545	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513179724116	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 30075, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x200002,name=PCompositorBridge::Msg_DidComposite) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513322819488	geckodriver	INFO	geckodriver 0.18.0
+1513322819508	geckodriver	INFO	Listening on 127.0.0.1:54582
+1513322820764	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513322823243	Marionette	INFO	Enabled via --marionette
+1513322831846	Marionette	INFO	Listening on port 39603
+1513322833455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513322833927	Marionette	DEBUG	Register listener.js for window 2147483649
+1513322835129	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513322839858	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513322839869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513322845871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513322920925	geckodriver	INFO	geckodriver 0.18.0
+1513322920941	geckodriver	INFO	Listening on 127.0.0.1:56496
+1513322922218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513323254772	geckodriver	INFO	geckodriver 0.18.0
+1513323254783	geckodriver	INFO	Listening on 127.0.0.1:45775
+1513323256031	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513521812356	geckodriver	INFO	geckodriver 0.18.0
+1513521812372	geckodriver	INFO	Listening on 127.0.0.1:35973
+1513521813625	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513523625835	geckodriver	INFO	geckodriver 0.18.0
+1513523625853	geckodriver	INFO	Listening on 127.0.0.1:51194
+1513523627117	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513523629527	Marionette	INFO	Enabled via --marionette
+1513523636217	Marionette	INFO	Listening on port 43919
+1513523636302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513523636500	Marionette	DEBUG	Register listener.js for window 2147483649
+1513523636953	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513523639492	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513523639493	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513523641589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513523645151	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513523648680	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513523650190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513523653079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513523654057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513523656858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513525312256	geckodriver	INFO	geckodriver 0.18.0
+1513525312277	geckodriver	INFO	Listening on 127.0.0.1:51941
+1513525313600	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513525316466	Marionette	INFO	Enabled via --marionette
+[Parent 9227, Gecko_IOThread] WARNING: pipe error (49): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513525409423	Marionette	INFO	Listening on port 41316
+1513525410646	geckodriver	INFO	geckodriver 0.18.0
+1513525410678	geckodriver	INFO	Listening on 127.0.0.1:38762
+1513525412711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513525640711	geckodriver	INFO	geckodriver 0.18.0
+1513525640729	geckodriver	INFO	Listening on 127.0.0.1:57125
+1513525642008	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513525643977	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+
+(/usr/lib/firefox/firefox:9672): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513526169832	geckodriver	INFO	geckodriver 0.18.0
+1513526169854	geckodriver	INFO	Listening on 127.0.0.1:58234
+1513526171119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513526570663	geckodriver	INFO	geckodriver 0.18.0
+1513526570674	geckodriver	INFO	Listening on 127.0.0.1:44309
+1513526571907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513526617216	geckodriver	INFO	geckodriver 0.18.0
+1513526617230	geckodriver	INFO	Listening on 127.0.0.1:39163
+1513526618474	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513526815830	geckodriver	INFO	geckodriver 0.18.0
+1513526815851	geckodriver	INFO	Listening on 127.0.0.1:43264
+1513526817005	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513526819063	Marionette	INFO	Enabled via --marionette
+1513526824403	Marionette	INFO	Listening on port 40264
+1513526824503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513526824700	Marionette	DEBUG	Register listener.js for window 2147483649
+1513526824809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513526826492	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513526826494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513526828909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513526831582	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513526832863	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513526833286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513526835593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513526835881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513526836182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513526961930	geckodriver	INFO	geckodriver 0.18.0
+1513526961951	geckodriver	INFO	Listening on 127.0.0.1:44337
+1513526963303	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513526966042	Marionette	INFO	Enabled via --marionette
+1513527332401	geckodriver	INFO	geckodriver 0.18.0
+1513527332416	geckodriver	INFO	Listening on 127.0.0.1:60606
+1513527333665	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513527335813	Marionette	INFO	Enabled via --marionette
+1513527340945	Marionette	INFO	Listening on port 37440
+1513527341026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513527341310	Marionette	DEBUG	Register listener.js for window 2147483649
+1513527341537	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513527345357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513527345358	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513527347437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513527349909	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513527351165	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513527351749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527354047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527354357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527354724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527355243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527355547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527848665	geckodriver	INFO	geckodriver 0.18.0
+1513527848682	geckodriver	INFO	Listening on 127.0.0.1:34844
+1513527849927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513527851890	Marionette	INFO	Enabled via --marionette
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527857478	Marionette	INFO	Listening on port 38274
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513527857573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513527857888	Marionette	DEBUG	Register listener.js for window 2147483649
+1513527858017	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527860479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513527860479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527862413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527865040	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527866474	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527866887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527869249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527869643	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527870010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513527870572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513527870856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+
+(firefox:1796): dconf-CRITICAL **: unable to create directory '/run/user/1000/dconf': Permission denied.  dconf will not work properly.
+1513528250138	geckodriver	INFO	geckodriver 0.18.0
+1513528250155	geckodriver	INFO	Listening on 127.0.0.1:53173
+1513528251329	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513528253081	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+
+(/usr/lib/firefox/firefox:1862): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513555273988	geckodriver	INFO	geckodriver 0.18.0
+1513555274010	geckodriver	INFO	Listening on 127.0.0.1:41141
+1513555275258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513555277247	Marionette	INFO	Enabled via --marionette
+1513555282830	Marionette	INFO	Listening on port 45508
+1513555282975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513555283138	Marionette	DEBUG	Register listener.js for window 2147483649
+1513555283261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513555285487	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513555285488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513555287577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513555290468	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513555291744	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513555292300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555294596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555294926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555295319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555295826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555296128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555296576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555296853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513555297532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560793027	geckodriver	INFO	geckodriver 0.18.0
+1513560793054	geckodriver	INFO	Listening on 127.0.0.1:52717
+1513560794401	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513560797482	Marionette	INFO	Enabled via --marionette
+[Parent 5658, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5658, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5658, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5658, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 366: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 5658, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5658, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 240: TypeError: this.frameLoader.tabParent is null
+[Parent 5658, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5658, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 240: TypeError: this.frameLoader.tabParent is null
+1513560948020	geckodriver	INFO	geckodriver 0.18.0
+1513560948040	geckodriver	INFO	Listening on 127.0.0.1:55150
+1513560949294	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513560951600	Marionette	INFO	Enabled via --marionette
+1513560956790	Marionette	INFO	Listening on port 38380
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513560956845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513560957085	Marionette	DEBUG	Register listener.js for window 2147483649
+1513560957201	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513560958522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513560958523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513560960322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513560963284	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513560964574	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513560965034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560967335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560967623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560967960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560968528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560968806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560969185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560969470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560969937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560970444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560971982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560972389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513560974064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561441413	geckodriver	INFO	geckodriver 0.18.0
+1513561441427	geckodriver	INFO	Listening on 127.0.0.1:37501
+1513561442685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513561444704	Marionette	INFO	Enabled via --marionette
+1513561450511	Marionette	INFO	Listening on port 39964
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513561450552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513561450744	Marionette	DEBUG	Register listener.js for window 2147483649
+1513561450874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513561452317	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513561452318	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513561454394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513561456410	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513561458092	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513561458564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561460883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561461221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561461602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561462056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561462316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561462725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561462974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561463353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561464127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561465465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561465998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561467466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561471605	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561471983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561480502	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561480766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561487583	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561487978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561494445	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561494706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561501351	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561501645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561510235	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561510531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561517154	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561517487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561524498	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561525076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561532407	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561532743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561542229	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561542869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561549279	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561549654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561555148	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561555487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561564234	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561565672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561574202	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561575179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561582394	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561584494	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561591800	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513561594079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513561605098	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&floor=2,6&other=lift,cook&not_cover=1#breadList"
+1513693628745	geckodriver	INFO	geckodriver 0.18.0
+1513693628757	geckodriver	INFO	Listening on 127.0.0.1:34465
+1513693630054	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513693632199	Marionette	INFO	Enabled via --marionette
+1513693638368	Marionette	INFO	Listening on port 33109
+1513693638639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513693638862	Marionette	DEBUG	Register listener.js for window 2147483649
+1513693639552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513693643787	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513693643791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513693647852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513693656064	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513693661349	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513693666877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693673387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693677487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693683035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513693683533	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1"
+1513693688962	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=0&region=1"
+1513693689021	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=0&region=1"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513693702162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513693702196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513693702202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513693702203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513693702204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513693702881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513693723058	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=4"
+1513693736973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693750379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693760763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693766861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693795578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513693837282	geckodriver	INFO	geckodriver 0.18.0
+1513693837314	geckodriver	INFO	Listening on 127.0.0.1:41639
+1513693838896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513693906759	Marionette	INFO	Enabled via --marionette
+[Child 16234, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513694966908	geckodriver	INFO	geckodriver 0.18.0
+1513694966924	geckodriver	INFO	Listening on 127.0.0.1:38565
+1513694968086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513694969893	Marionette	INFO	Enabled via --marionette
+1513694975497	Marionette	INFO	Listening on port 33547
+1513694975613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513694975856	Marionette	DEBUG	Register listener.js for window 2147483649
+1513694976221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513694981376	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513694981378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513694983427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513694990194	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513694994731	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513695001002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695009573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695012939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695018772	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513695019497	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695024656	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695024732	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=0&region=1"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513695036872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513695036887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513695036896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513695036897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513695036899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513695038514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695062027	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=4"
+1513695070433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695074388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695082201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695091375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695102513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695147631	geckodriver	INFO	geckodriver 0.18.0
+1513695147649	geckodriver	INFO	Listening on 127.0.0.1:55479
+1513695148990	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513695185690	Marionette	INFO	Enabled via --marionette
+[Child 16564, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513695558025	geckodriver	INFO	geckodriver 0.18.0
+1513695558040	geckodriver	INFO	Listening on 127.0.0.1:54653
+1513695559258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513695560924	Marionette	INFO	Enabled via --marionette
+1513695565926	Marionette	INFO	Listening on port 39538
+1513695566117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513695566451	Marionette	DEBUG	Register listener.js for window 2147483649
+1513695566653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513695569412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513695569415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513695572014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695580241	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695586087	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513695591710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695601973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695604790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695611586	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1#"
+1513695612187	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695617177	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695617351	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=0&region=1"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513695628266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513695628799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513695628890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513695628911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513695628913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513695630139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=0&region=1"
+1513695663956	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=0&region=4"
+1513695674729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695687179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695694359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695701734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695715862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695762146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695778740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695813365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695849805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513695891760	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=4&floor=0,1&not_cover=1&other=cook#breadList"
+1513695913667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513696002606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513696040075	geckodriver	INFO	geckodriver 0.18.0
+1513696040085	geckodriver	INFO	Listening on 127.0.0.1:43842
+1513696041309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513696043358	Marionette	INFO	Enabled via --marionette
+1513696049445	Marionette	INFO	Listening on port 46768
+1513696049627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513696049842	Marionette	DEBUG	Register listener.js for window 2147483649
+1513696050278	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+
+(/usr/lib/firefox/firefox:16860): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1013.
+
+1513698839123	geckodriver	INFO	geckodriver 0.18.0
+1513698839135	geckodriver	INFO	Listening on 127.0.0.1:41660
+1513698840371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513698842043	Marionette	INFO	Enabled via --marionette
+1513698847716	Marionette	INFO	Listening on port 35487
+1513698848062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513698848372	Marionette	DEBUG	Register listener.js for window 2147483649
+1513698850586	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513698853827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513698853828	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513698856051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513698865970	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513698870890	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513698876695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698881737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698889194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698902491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698919243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698925426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698938655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513698949278	geckodriver	INFO	geckodriver 0.18.0
+1513698949303	geckodriver	INFO	Listening on 127.0.0.1:50545
+1513698950800	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
