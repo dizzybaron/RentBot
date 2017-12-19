@@ -2,20 +2,17 @@ from flask import Flask, request
 import requests, json
 import logging
 from crawFunc import *
+from crawler import *
 import pandas as pd
 import numpy as np
 # set up logging file
 logging.basicConfig(filename='log',level=logging.DEBUG)
 
-
 app = Flask(__name__)
 
 
-ACCESS_TOKEN = "EAAHqP0d6yQ4BAEcj87lDEzT1j7nZABVtfovA3HigtQsgf2ZCBz6mYx0nAwbKi6ldXclfsCMqggQH4bcghJTcTBEBg8QLdzAWecNZBveiKISHDZAudXs4ge1CqLfvJmPi5YkEo35m4gH5dNpFlfO10MCvCWZArUDXwQb89lGV7fBXC0BRahvBH"
+ACCESS_TOKEN = 'EAAHqP0d6yQ4BAIoooStmjKqrXGd8jZAvOgeaQLIOd3Nvmyj6SsEcRUrWqDZCuqdZANnCqGVNE4baGbGongPof2PTDw2Hq0QwxEYohYfJ3RoFq1TNgNs4gUvYDFdVwRWkMrilwRtjUGX4D1I3AkQujQZAZCIb6JCatJPA6kQBAGxFrw8pj4p0v'
 VERIFY_TOKEN = "superbug"
-#load userdata
-
-
 
 @app.route('/', methods=['GET'])
 def handle_verification():
@@ -41,6 +38,18 @@ def handle_incoming_messages():
                     print(messaging_event['message'])
                     message_text = messaging_event['message']['text']
                     if messaging_event['message'].get("quick_reply"):
+                        if 'CONFIRM' in messaging_event['message']['quick_reply']['payload']:
+                            result = messaging_event['message']['text']
+                            if result == '要':
+                                
+                                user_data.loc[str(sender_id), :] = np.nan
+                                user_data.to_pickle("user_data")
+                                
+                                main_way(sender_id)
+                            else:
+                                # let's scrape
+                                df = clicking(user_data.loc[sender_id, :])
+                                return_search(sender_id, df)
                         if 'SEARCH' not in messaging_event['message']['quick_reply']['payload']:
                             col = messaging_event['message']['quick_reply']['payload'].split('_')[0]
                             val = messaging_event['message']['quick_reply']['payload'].split('_')[1]
@@ -57,6 +66,13 @@ def handle_incoming_messages():
                                 main_way(sender_id)
                             else:
                                 main_way(sender_id)
+                    # detecting keyword
+                    elif '**' in messaging_event['message']['text']:
+                        keyword = messaging_event['message']['text']
+                        user_data.loc[str(sender_id), 'keyword'] = keyword[2:]
+                        user_data.to_pickle("user_data")
+                        print("keyword saved", keyword[2:])
+                        main_way(sender_id)
                     # if new user
                     elif str(sender_id) not in user_data.index:
                         send_text_message(sender_id, '歡迎來到租霸')
@@ -73,9 +89,17 @@ def handle_incoming_messages():
                                          
 def display_param(sender_id):
     user_data = pd.read_pickle("./user_data")
-    text_for_old_usr = '這是你的搜尋紀錄/n/n'+str(user_data.loc[str(sender_id), :])+'/n/n是否要清除搜尋條件?'
+    text_for_old_usr = '這是你的搜尋紀錄\n\n'+str(user_data.loc[str(sender_id), :])+'\n\n是否要清除搜尋條件?'
     send_quick_reply(sender_id, quick_reply_json(list_to_dict(search_clean, 'SEARCH')),text_for_old_usr)
-                        
+def last_confirm(sender_id):
+    user_data = pd.read_pickle("./user_data")
+    text_for_old_usr = '最後確認搜尋紀錄\n\n'+str(user_data.loc[str(sender_id), :])+'\n\n是否要清除搜尋條件?'
+    send_quick_reply(sender_id, quick_reply_json(list_to_dict(search_clean, 'CONFIRM')),text_for_old_usr)
+def return_search(sender_id, df):
+    send_text_message(sender_id,'來嚕來嚕')
+    for i in list(df['url']):
+        send_text_message(sender_id, i)
+    send_text_message(sender_id, '沒了ㄏㄏ')
 def send_quick_reply(sender_id, options, text_message):
     # Send the message text to recipient with id recipient.
     
@@ -110,7 +134,9 @@ def main_way(sender_id):
     user_data = pd.read_pickle("./user_data")
 
     #if np.isnan(user_data.loc[str(sender_id), 'region']):
-    if type(user_data.loc[str(sender_id), 'region']) == float:
+    if type(user_data.loc[str(sender_id), 'keyword']) == float:
+        send_text_message(sender_id, '請輸入找房關鍵字，關鍵字前加「**」才會被偵測到\n\n（範例：**北醫附近)')
+    elif type(user_data.loc[str(sender_id), 'region']) == float:
         send_quick_reply(sender_id, quick_reply_json(region_list), '想住哪區')
     elif type(user_data.loc[str(sender_id), 'city']) == float:
         send_quick_reply(sender_id, quick_reply_json(list_to_dict(region_to_city[user_data.loc[str(sender_id), 'region']],'city')), '哪個城市')
@@ -122,6 +148,10 @@ def main_way(sender_id):
         send_quick_reply(sender_id, quick_reply_json(
             list_to_dict(floor, 'floor')
         ), '幾樓')
+    elif type(user_data.loc[str(sender_id), 'size'])==float:
+        send_quick_reply(sender_id, quick_reply_json(
+            list_to_dict(size, 'size')
+        ), '多大')
     elif type(user_data.loc[str(sender_id), 'rooftop'])==float:
         send_quick_reply(sender_id, quick_reply_json(
             list_to_dict(rooftop, 'rooftop')
@@ -139,8 +169,8 @@ def main_way(sender_id):
             list_to_dict(budgetMax, 'budgetMax')
         ), '預算上限')
     else:
-        send_text_message(sender_id, '完成填寫')
-        display_param(sender_id)
+        send_text_message(sender_id, '完成填寫，爬資料會需要一些時間！與您最後確認資料')
+        last_confirm(sender_id)
         
 if __name__ == '__main__':
     context = ('ssl/fullchain.pem', 'ssl/privkey.pem')
