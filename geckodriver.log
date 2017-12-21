@@ -6766,3 +6766,2180 @@ JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using 
 1513698949278	geckodriver	INFO	geckodriver 0.18.0
 1513698949303	geckodriver	INFO	Listening on 127.0.0.1:50545
 1513698950800	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513700188152	geckodriver	INFO	geckodriver 0.18.0
+1513700188167	geckodriver	INFO	Listening on 127.0.0.1:37283
+1513700189469	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513700191237	Marionette	INFO	Enabled via --marionette
+1513700196143	Marionette	INFO	Listening on port 41590
+1513700196286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513700196463	Marionette	DEBUG	Register listener.js for window 2147483649
+1513700196648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513700199740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513700199740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513700201630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700204057	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700205279	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513700205776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700208077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700208372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700208690	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513700208753	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700209655	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700209657	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513700210001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513700210002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513700210003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513700210006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513700210007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513700210783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700212705	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=4&area=0,0&floor=0,1&other=cook"
+1513700216132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700216931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700218765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700280129	geckodriver	INFO	geckodriver 0.18.0
+1513700280147	geckodriver	INFO	Listening on 127.0.0.1:41144
+1513700281356	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513700286992	Marionette	INFO	Enabled via --marionette
+[Parent 1952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 1952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 1952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 1952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1513700378780	geckodriver	INFO	geckodriver 0.18.0
+1513700378800	geckodriver	INFO	Listening on 127.0.0.1:47175
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513700380700	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513700696446	geckodriver	INFO	geckodriver 0.18.0
+1513700696457	geckodriver	INFO	Listening on 127.0.0.1:53954
+1513700697646	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513700699285	Marionette	INFO	Enabled via --marionette
+1513700704453	Marionette	INFO	Listening on port 33283
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513700704514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513700704746	Marionette	DEBUG	Register listener.js for window 2147483649
+1513700704889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513700707333	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513700707334	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513700709433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700711197	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700712447	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513700712918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700715344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700715689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700716010	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513700716038	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700717187	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700717197	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513700717721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513700717722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513700717723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513700717725	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513700717727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513700719354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513700720640	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=4&area=0,0&floor=0,1&other=cook"
+1513700724743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700726148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700729998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513700735504	geckodriver	INFO	geckodriver 0.18.0
+1513700735527	geckodriver	INFO	Listening on 127.0.0.1:38282
+1513700736770	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513701052775	geckodriver	INFO	geckodriver 0.18.0
+1513701052787	geckodriver	INFO	Listening on 127.0.0.1:44484
+1513701053973	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513701055830	Marionette	INFO	Enabled via --marionette
+1513701060692	Marionette	INFO	Listening on port 38785
+1513701060804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513701061075	Marionette	DEBUG	Register listener.js for window 2147483649
+1513701061194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513701063740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513701063740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513701066771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513701069768	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513701072465	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513701073116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701075630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701076046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701076630	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513701076692	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513701077683	Marionette	DEBUG	Received DOM event "pagehide" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513701077691	Marionette	DEBUG	Received DOM event "unload" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513701078592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513701078595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513701078596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513701078597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513701078599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513701079366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513701083223	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=4&area=0,0&floor=0,1&other=cook"
+1513701087598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701089272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701094567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513701148865	geckodriver	INFO	geckodriver 0.18.0
+1513701148881	geckodriver	INFO	Listening on 127.0.0.1:54895
+1513701150108	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513701218776	Marionette	INFO	Enabled via --marionette
+1513726045018	geckodriver	INFO	geckodriver 0.18.0
+1513726045035	geckodriver	INFO	Listening on 127.0.0.1:59785
+1513726046228	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513726048160	Marionette	INFO	Enabled via --marionette
+1513726053547	Marionette	INFO	Listening on port 33280
+1513726053600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513726053911	Marionette	DEBUG	Register listener.js for window 2147483649
+1513726054096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513726055514	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513726055514	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513726055786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513726057113	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+
+(/usr/lib/firefox/firefox:5476): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513726458608	geckodriver	INFO	geckodriver 0.18.0
+1513726458628	geckodriver	INFO	Listening on 127.0.0.1:55722
+1513726459878	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513726461459	Marionette	INFO	Enabled via --marionette
+1513726467029	Marionette	INFO	Listening on port 42641
+1513726467153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513726467321	Marionette	DEBUG	Register listener.js for window 2147483649
+1513726467617	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513726469806	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513726469807	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513726469963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513726471262	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513726472647	geckodriver	INFO	geckodriver 0.18.0
+1513726472657	geckodriver	INFO	Listening on 127.0.0.1:36762
+1513726473930	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513726476428	Marionette	INFO	Enabled via --marionette
+[Parent 5745, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5745, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5745, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5745, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 366: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 5745, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5745, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 240: TypeError: this.frameLoader.tabParent is null
+[Parent 5745, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 5745, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513726561014	geckodriver	INFO	geckodriver 0.18.0
+1513726561465	geckodriver	INFO	Listening on 127.0.0.1:58838
+[Parent 5636, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5636, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1513726593490	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150063,name=PBrowser::Msg_ParentActivated) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24004F,name=PContent::Msg_Deactivate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15006B,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 240: TypeError: this.frameLoader.tabParent is null
+1513728273596	geckodriver	INFO	geckodriver 0.18.0
+1513728273610	geckodriver	INFO	Listening on 127.0.0.1:39087
+1513728274793	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513728276473	Marionette	INFO	Enabled via --marionette
+1513728281446	Marionette	INFO	Listening on port 45148
+1513728281611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513728281750	Marionette	DEBUG	Register listener.js for window 2147483649
+1513728281933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513728284498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513728284499	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513728284628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513728286453	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+
+(/usr/lib/firefox/firefox:6092): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513728373749	geckodriver	INFO	geckodriver 0.18.0
+1513728373760	geckodriver	INFO	Listening on 127.0.0.1:34185
+1513728374997	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513728376614	Marionette	INFO	Enabled via --marionette
+1513728381602	Marionette	INFO	Listening on port 39685
+1513728381684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513728381852	Marionette	DEBUG	Register listener.js for window 2147483649
+1513728382038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513728384436	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513728384436	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513728384567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513728386057	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+
+(/usr/lib/firefox/firefox:6252): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513728472529	geckodriver	INFO	geckodriver 0.18.0
+1513728472540	geckodriver	INFO	Listening on 127.0.0.1:51539
+1513728473728	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513728475360	Marionette	INFO	Enabled via --marionette
+1513728480410	Marionette	INFO	Listening on port 43274
+1513728480606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513728480819	Marionette	DEBUG	Register listener.js for window 2147483649
+1513728481007	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513728482915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513728482916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513728483046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513728484097	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+
+(/usr/lib/firefox/firefox:6396): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513740689736	geckodriver	INFO	geckodriver 0.18.0
+1513740689748	geckodriver	INFO	Listening on 127.0.0.1:49808
+1513740691022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513740692766	Marionette	INFO	Enabled via --marionette
+1513740697716	Marionette	INFO	Listening on port 39418
+1513740697821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513740698199	Marionette	DEBUG	Register listener.js for window 2147483649
+1513740698420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513740699426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513740699427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513740702332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513740704383	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513740706173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740708628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740709098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740709654	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513740710139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513740713957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740715086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740731628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513740784058	geckodriver	INFO	geckodriver 0.18.0
+1513740784078	geckodriver	INFO	Listening on 127.0.0.1:44210
+1513740785374	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513752508064	geckodriver	INFO	geckodriver 0.18.0
+1513752508076	geckodriver	INFO	Listening on 127.0.0.1:58952
+1513752509300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513752511133	Marionette	INFO	Enabled via --marionette
+1513752515847	Marionette	INFO	Listening on port 43543
+1513752515962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513752516123	Marionette	DEBUG	Register listener.js for window 2147483649
+1513752516289	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513752518605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513752518607	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513752525463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513752526932	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513752528336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752531404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752531787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752532520	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513752532928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513752537479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752545554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752559083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513752598489	geckodriver	INFO	geckodriver 0.18.0
+1513752598509	geckodriver	INFO	Listening on 127.0.0.1:35059
+1513752599718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513752690302	geckodriver	INFO	geckodriver 0.18.0
+1513752690672	geckodriver	INFO	Listening on 127.0.0.1:40010
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1513752700355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513752701989	Marionette	INFO	Enabled via --marionette
+1513752712108	Marionette	INFO	Enabled via --marionette
+1513752789198	geckodriver	INFO	geckodriver 0.18.0
+1513752789220	geckodriver	INFO	Listening on 127.0.0.1:41858
+1513753095426	geckodriver	INFO	geckodriver 0.18.0
+1513753095439	geckodriver	INFO	Listening on 127.0.0.1:42590
+1513753096632	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513753098336	Marionette	INFO	Enabled via --marionette
+1513753103992	Marionette	INFO	Listening on port 37641
+1513753104148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513753104318	Marionette	DEBUG	Register listener.js for window 2147483649
+1513753104433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513753105914	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513753105915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513753107870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513753110366	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513753112079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753114705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753115301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753115935	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513753116406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513753120095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753120514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753131177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753190486	geckodriver	INFO	geckodriver 0.18.0
+1513753190512	geckodriver	INFO	Listening on 127.0.0.1:41339
+1513753191811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513753525614	geckodriver	INFO	geckodriver 0.18.0
+1513753525631	geckodriver	INFO	Listening on 127.0.0.1:37016
+1513753526898	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513753528744	Marionette	INFO	Enabled via --marionette
+1513753533656	Marionette	INFO	Listening on port 43555
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513753533766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513753534007	Marionette	DEBUG	Register listener.js for window 2147483649
+1513753534237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513753536197	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513753536197	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513753539024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513753540399	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook"
+1513753541823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753544363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753544750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753545022	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&region=1&area=0,0&floor=0,1&other=cook#"
+1513753545369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513753548679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753549018	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513753557548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513755711628	geckodriver	INFO	geckodriver 0.18.0
+1513755711642	geckodriver	INFO	Listening on 127.0.0.1:43760
+1513755712849	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513755714293	Marionette	INFO	Enabled via --marionette
+1513755718600	Marionette	INFO	Listening on port 38125
+1513755718806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513755719023	Marionette	DEBUG	Register listener.js for window 2147483649
+1513755719189	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513755720350	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513755720351	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513755722336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=4&area=0,0&floor=0,1&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,12000"
+1513755724785	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,12000&area=0,0&floor=0,1&other=cook"
+1513755726627	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,12000&area=0,0&floor=0,1&other=cook#"
+1513755728050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513755730530	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513755730876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513755731314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513755810663	geckodriver	INFO	geckodriver 0.18.0
+1513755810679	geckodriver	INFO	Listening on 127.0.0.1:52500
+1513755811852	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513755841829	Marionette	INFO	Enabled via --marionette
+1513757239879	geckodriver	INFO	geckodriver 0.18.0
+1513757239893	geckodriver	INFO	Listening on 127.0.0.1:50563
+1513757241054	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513757242625	Marionette	INFO	Enabled via --marionette
+1513757247672	Marionette	INFO	Listening on port 44329
+1513757247901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513757248169	Marionette	DEBUG	Register listener.js for window 2147483649
+1513757248490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513757250815	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513757250828	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513757257168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&region=4&area=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513757298476	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook"
+1513757315308	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#"
+1513757321593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757333259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757337898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757343117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757369521	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513757386980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757406662	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513757424451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513757656262	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513757752639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240057,name=PContent::Msg_SetPluginList) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FA,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513759868863	geckodriver	INFO	geckodriver 0.18.0
+1513759868879	geckodriver	INFO	Listening on 127.0.0.1:54578
+1513759870162	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513759871930	Marionette	INFO	Enabled via --marionette
+1513759876971	Marionette	INFO	Listening on port 35382
+1513760142939	geckodriver	INFO	geckodriver 0.18.0
+1513760142958	geckodriver	INFO	Listening on 127.0.0.1:48747
+1513760144198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513760147582	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1513760345512	geckodriver	INFO	geckodriver 0.18.0
+1513760345557	geckodriver	INFO	Listening on 127.0.0.1:40173
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513760347239	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513814971235	geckodriver	INFO	geckodriver 0.18.0
+1513814971251	geckodriver	INFO	Listening on 127.0.0.1:54617
+1513814972517	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513814974925	Marionette	INFO	Enabled via --marionette
+1513814981324	Marionette	INFO	Listening on port 37629
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513814981491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513814981919	Marionette	DEBUG	Register listener.js for window 2147483649
+1513814982782	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513814986163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513814986165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513814988967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1&area=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513815018576	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook"
+1513815031672	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#"
+1513815039656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815053587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815059833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815066435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815097218	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513815118601	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815183341	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513815233521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513815379351	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&area=0,0&floor=0,0&other=cook#breadList"
+1513815436429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513815520997	geckodriver	INFO	geckodriver 0.18.0
+1513815521006	geckodriver	INFO	Listening on 127.0.0.1:49524
+1513815522292	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513815524888	Marionette	INFO	Enabled via --marionette
+1513815622980	geckodriver	INFO	geckodriver 0.18.0
+1513815623944	geckodriver	INFO	Listening on 127.0.0.1:55989
+1513815633559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513815638300	Marionette	INFO	Enabled via --marionette
+1513817739004	geckodriver	INFO	geckodriver 0.18.0
+1513817739022	geckodriver	INFO	Listening on 127.0.0.1:53583
+1513817740271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513817742302	Marionette	INFO	Enabled via --marionette
+1513817748105	Marionette	INFO	Listening on port 44507
+1513817748238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513817748560	Marionette	DEBUG	Register listener.js for window 2147483649
+1513817748730	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513817751724	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513817751725	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513817754212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1oarea=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513817755739	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook"
+1513817756010	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#"
+1513817756749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817759257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817759553	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817759960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817760853	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513817761563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817762375	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513817762990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513817835635	geckodriver	INFO	geckodriver 0.18.0
+1513817835658	geckodriver	INFO	Listening on 127.0.0.1:55864
+1513817836926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Child 20518, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513818179750	geckodriver	INFO	geckodriver 0.18.0
+1513818179768	geckodriver	INFO	Listening on 127.0.0.1:58784
+1513818180960	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513818182961	Marionette	INFO	Enabled via --marionette
+1513818189923	Marionette	INFO	Listening on port 39262
+1513818190070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513818190334	Marionette	DEBUG	Register listener.js for window 2147483649
+1513818190460	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513818193485	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513818193486	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513818195396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1oarea=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513818199376	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook"
+1513818199675	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#"
+1513818199993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818202536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818202824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818203193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818204221	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818205332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818206449	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818207106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818211548	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818213741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818220289	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818224755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818246863	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818260044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818263376	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818264987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818271119	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818274938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818281952	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818291300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818305161	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818309778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818317759	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818323722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818338842	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818359542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818454905	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818492229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818496324	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818499351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818505636	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818509629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818519685	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818538207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818548913	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818555328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818563101	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818575857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818598702	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818644565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818721505	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+1513818756364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513818942990	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#breadList"
+[Parent 20722, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513832853140	geckodriver	INFO	geckodriver 0.18.0
+1513832853166	geckodriver	INFO	Listening on 127.0.0.1:42105
+1513832854450	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513832856783	Marionette	INFO	Enabled via --marionette
+1513832862443	Marionette	INFO	Listening on port 33132
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513832862517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513832862796	Marionette	DEBUG	Register listener.js for window 2147483649
+1513832862957	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513832864843	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513832864844	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513832867048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1oarea=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513832869416	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook"
+1513832870661	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#"
+1513832871519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513832874148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513832874566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513832875077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513832945886	geckodriver	INFO	geckodriver 0.18.0
+1513832945907	geckodriver	INFO	Listening on 127.0.0.1:60658
+1513832947198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513832991286	Marionette	INFO	Enabled via --marionette
+1513833052471	geckodriver	INFO	geckodriver 0.18.0
+1513833052621	geckodriver	INFO	Listening on 127.0.0.1:42377
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x7E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+1513833062095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513833140498	geckodriver	INFO	geckodriver 0.18.0
+1513833140511	geckodriver	INFO	Listening on 127.0.0.1:54052
+1513833141707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513833143651	Marionette	INFO	Enabled via --marionette
+1513833149159	Marionette	INFO	Listening on port 40750
+1513833149323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513833149491	Marionette	DEBUG	Register listener.js for window 2147483649
+1513833149665	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513833151550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513833151550	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513833153318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=1oarea=0,0&floor=0,0&other=cook&keyword=%E5%8C%97%E9%86%AB&no_cover=1&rentprice=0,50000"
+1513833155907	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook"
+1513833157488	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=1oarea=0,0&keyword=%E5%8C%97%E9%86%AB&no_cover=1&region=1&rentprice=0,50000&floor=0,0&other=cook#"
+1513833158891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513833161739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513833162256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513833163133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513833234064	geckodriver	INFO	geckodriver 0.18.0
+1513833234087	geckodriver	INFO	Listening on 127.0.0.1:50406
+1513833235300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513833290516	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513833504036	geckodriver	INFO	geckodriver 0.18.0
+1513833504126	geckodriver	INFO	Listening on 127.0.0.1:58886
+1513833509572	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513833518649	Marionette	INFO	Enabled via --marionette
+[Parent 23191, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 23191, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23191, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 23191, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 366: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 23191, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 23191, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 240: TypeError: this.frameLoader.tabParent is null
+[Parent 23191, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/glue/GeckoChildProcessHost.cpp, line 647
+[Parent 23191, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513833586808	geckodriver	INFO	geckodriver 0.18.0
+1513833586921	geckodriver	INFO	Listening on 127.0.0.1:43553
+1513833600905	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513834344399	geckodriver	INFO	geckodriver 0.18.0
+1513834344412	geckodriver	INFO	Listening on 127.0.0.1:37329
+1513834345688	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513834347635	Marionette	INFO	Enabled via --marionette
+1513834353527	Marionette	INFO	Listening on port 34972
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513834353648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513834353978	Marionette	DEBUG	Register listener.js for window 2147483649
+1513834354197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513834355309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513834355310	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513834358292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513834359952	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513834360476	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513834361259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513834363787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513834364196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513834364893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513834442479	geckodriver	INFO	geckodriver 0.18.0
+1513834442499	geckodriver	INFO	Listening on 127.0.0.1:48201
+1513834443697	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513834483539	Marionette	INFO	Enabled via --marionette
+1513834551120	geckodriver	INFO	geckodriver 0.18.0
+1513834556459	geckodriver	INFO	Listening on 127.0.0.1:33624
+[Parent 23403, Gecko_IOThread] WARNING: pipe error (49): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1513834585336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513834747297	Marionette	INFO	Enabled via --marionette
+1513834919854	geckodriver	INFO	geckodriver 0.18.0
+1513834921271	geckodriver	INFO	Listening on 127.0.0.1:33653
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1513834935345	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513834969668	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513835101931	geckodriver	INFO	geckodriver 0.18.0
+1513835101971	geckodriver	INFO	Listening on 127.0.0.1:48403
+1513835103412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513835106771	Marionette	INFO	Enabled via --marionette
+1513835309241	geckodriver	INFO	geckodriver 0.18.0
+1513835309415	geckodriver	INFO	Listening on 127.0.0.1:57506
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1513835315119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513835375212	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513835490652	geckodriver	INFO	geckodriver 0.18.0
+1513835497062	geckodriver	INFO	Listening on 127.0.0.1:37051
+1513835506095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513835509774	Marionette	INFO	Enabled via --marionette
+1513835677843	geckodriver	INFO	geckodriver 0.18.0
+1513835678185	geckodriver	INFO	Listening on 127.0.0.1:45150
+1513835689836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513835734539	Marionette	INFO	Enabled via --marionette
+1513835774918	geckodriver	INFO	geckodriver 0.18.0
+1513835775016	geckodriver	INFO	Listening on 127.0.0.1:49802
+1513835785394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513835815982	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FA,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513836069710	geckodriver	INFO	geckodriver 0.18.0
+1513836071839	geckodriver	INFO	Listening on 127.0.0.1:34159
+1513836084256	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513836100941	Marionette	INFO	Enabled via --marionette
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513836437329	geckodriver	INFO	geckodriver 0.18.0
+1513836437350	geckodriver	INFO	Listening on 127.0.0.1:40012
+1513836438922	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240021,name=PContent::Msg_DataStoragePut) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240021,name=PContent::Msg_DataStoragePut) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513836686271	Marionette	INFO	Enabled via --marionette
+1513836800401	geckodriver	INFO	geckodriver 0.18.0
+1513836800427	geckodriver	INFO	Listening on 127.0.0.1:56800
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513836801788	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513836890725	Marionette	INFO	Enabled via --marionette
+1513836892138	geckodriver	INFO	geckodriver 0.18.0
+1513836892159	geckodriver	INFO	Listening on 127.0.0.1:49542
+1513836893827	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150063,name=PBrowser::Msg_ParentActivated) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240021,name=PContent::Msg_DataStoragePut) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240021,name=PContent::Msg_DataStoragePut) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FA,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FA,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+1513837008329	Marionette	INFO	Enabled via --marionette
+1513837306647	geckodriver	INFO	geckodriver 0.18.0
+1513837306685	geckodriver	INFO	Listening on 127.0.0.1:53926
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1513837308269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24001F,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513837346163	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24774): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x46002E,name=PJavaScript::Msg_DropTemporaryStrongReferences) Channel error: cannot send/recv
+
+
+(firefox:24728): Gdk-WARNING **: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1005.
+
+1513837502227	geckodriver	INFO	geckodriver 0.18.0
+1513837502265	geckodriver	INFO	Listening on 127.0.0.1:53822
+1513837503648	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513837586357	geckodriver	INFO	geckodriver 0.18.0
+1513837586368	geckodriver	INFO	Listening on 127.0.0.1:52499
+1513837587609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513837685404	geckodriver	INFO	geckodriver 0.18.0
+1513837685414	geckodriver	INFO	Listening on 127.0.0.1:48275
+1513837686681	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513837779536	geckodriver	INFO	geckodriver 0.18.0
+1513837779550	geckodriver	INFO	Listening on 127.0.0.1:35562
+1513837780787	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513837868767	geckodriver	INFO	geckodriver 0.18.0
+1513837868778	geckodriver	INFO	Listening on 127.0.0.1:36324
+1513837870036	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513837964124	geckodriver	INFO	geckodriver 0.18.0
+1513837964134	geckodriver	INFO	Listening on 127.0.0.1:41703
+1513837965446	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838059269	geckodriver	INFO	geckodriver 0.18.0
+1513838059287	geckodriver	INFO	Listening on 127.0.0.1:49522
+1513838060538	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838148016	geckodriver	INFO	geckodriver 0.18.0
+1513838148032	geckodriver	INFO	Listening on 127.0.0.1:43248
+1513838149304	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838244481	geckodriver	INFO	geckodriver 0.18.0
+1513838244497	geckodriver	INFO	Listening on 127.0.0.1:49373
+1513838245694	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838335628	geckodriver	INFO	geckodriver 0.18.0
+1513838335650	geckodriver	INFO	Listening on 127.0.0.1:33355
+1513838337073	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838423076	geckodriver	INFO	geckodriver 0.18.0
+1513838423096	geckodriver	INFO	Listening on 127.0.0.1:57137
+1513838424504	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838512649	geckodriver	INFO	geckodriver 0.18.0
+1513838512669	geckodriver	INFO	Listening on 127.0.0.1:46596
+1513838513954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838574619	geckodriver	INFO	geckodriver 0.18.0
+1513838574632	geckodriver	INFO	Listening on 127.0.0.1:55912
+1513838575927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513838648660	geckodriver	INFO	geckodriver 0.18.0
+1513838648676	geckodriver	INFO	Listening on 127.0.0.1:54732
+1513838649941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1005
+1513849113934	geckodriver	INFO	geckodriver 0.18.0
+1513849113951	geckodriver	INFO	Listening on 127.0.0.1:43703
+1513849115214	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513849117174	Marionette	INFO	Enabled via --marionette
+1513849123011	Marionette	INFO	Listening on port 45150
+1513849123085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513849123403	Marionette	DEBUG	Register listener.js for window 2147483649
+1513849123732	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513849125438	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513849125445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513849128637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=2oarea=0,0&floor=0,0&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&rentprice=0,12000"
+1513849132364	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=2oarea=0,0&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&region=1&rentprice=0,12000&floor=0,0"
+1513849138766	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=2oarea=0,0&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&region=1&rentprice=0,12000&floor=0,0#"
+1513849146562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849151873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849153319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849155763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849206775	geckodriver	INFO	geckodriver 0.18.0
+1513849206790	geckodriver	INFO	Listening on 127.0.0.1:47504
+1513849208024	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513849953523	geckodriver	INFO	geckodriver 0.18.0
+1513849953542	geckodriver	INFO	Listening on 127.0.0.1:59833
+1513849954780	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513849956745	Marionette	INFO	Enabled via --marionette
+1513849963261	Marionette	INFO	Listening on port 44692
+1513849963445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513849963819	Marionette	DEBUG	Register listener.js for window 2147483649
+1513849964209	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513849965736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513849965739	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513849968222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513849978248	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513849982036	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513849986681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849990081	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849993769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513849997447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513850025089	geckodriver	INFO	geckodriver 0.18.0
+1513850025136	geckodriver	INFO	Listening on 127.0.0.1:51522
+1513850026971	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Parent 26313, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1513850078940	Marionette	INFO	Enabled via --marionette
+1513850114564	geckodriver	INFO	geckodriver 0.18.0
+1513850114898	geckodriver	INFO	Listening on 127.0.0.1:44585
+1513850122811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Child 26468, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513852132863	geckodriver	INFO	geckodriver 0.18.0
+1513852132874	geckodriver	INFO	Listening on 127.0.0.1:56741
+1513852134049	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513852135680	Marionette	INFO	Enabled via --marionette
+1513852141639	Marionette	INFO	Listening on port 39233
+1513852141799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513852142085	Marionette	DEBUG	Register listener.js for window 2147483649
+1513852142344	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513852144169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513852144174	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513852147255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513852156601	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513852160920	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513852164276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852166914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852168971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852173811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852181536	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#breadList"
+1513852200987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852227332	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#breadList"
+1513852242305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852261610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852268379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852274536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852390116	geckodriver	INFO	geckodriver 0.18.0
+1513852390126	geckodriver	INFO	Listening on 127.0.0.1:59719
+1513852391408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513852393558	Marionette	INFO	Enabled via --marionette
+1513852399475	Marionette	INFO	Listening on port 41185
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513852399591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513852400012	Marionette	DEBUG	Register listener.js for window 2147483649
+1513852400306	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513852402062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513852402067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513852404565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513852411966	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513852416566	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513852420969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852424189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852426513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852431013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852440833	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#breadList"
+1513852446837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852958426	geckodriver	INFO	geckodriver 0.18.0
+1513852958448	geckodriver	INFO	Listening on 127.0.0.1:42760
+1513852959651	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513852961692	Marionette	INFO	Enabled via --marionette
+1513852967954	Marionette	INFO	Listening on port 46178
+1513852968130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513852968368	Marionette	DEBUG	Register listener.js for window 2147483649
+1513852968758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513852971261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513852971273	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513852973457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513852977626	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513852983253	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513852985782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852988872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852992286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513852997020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853006239	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#breadList"
+[Child 27004, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513853205041	geckodriver	INFO	geckodriver 0.18.0
+1513853205056	geckodriver	INFO	Listening on 127.0.0.1:53569
+1513853206299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513853208433	Marionette	INFO	Enabled via --marionette
+1513853214479	Marionette	INFO	Listening on port 35999
+1513853214699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513853214974	Marionette	DEBUG	Register listener.js for window 2147483649
+1513853215226	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513853218061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513853218062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513853219913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513853224707	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513853229968	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513853232739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853237197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853241893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853246184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853377518	geckodriver	INFO	geckodriver 0.18.0
+1513853377531	geckodriver	INFO	Listening on 127.0.0.1:51145
+1513853378804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513853380646	Marionette	INFO	Enabled via --marionette
+1513853386706	Marionette	INFO	Listening on port 44480
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513853386781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513853387160	Marionette	DEBUG	Register listener.js for window 2147483649
+1513853387354	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513853388989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513853388995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513853391601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=3oarea=0,10&floor=0,0&other=cook&keyword=%E5%A3%AB%E6%9E%97&rentprice=0,9000"
+1513853398205	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook"
+1513853401523	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=3oarea=0,10&keyword=%E5%A3%AB%E6%9E%97&region=1&rentprice=0,9000&floor=0,0&other=cook#"
+1513853403957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853406672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853410715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513853416421	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513854061244	geckodriver	INFO	geckodriver 0.18.0
+1513854061263	geckodriver	INFO	Listening on 127.0.0.1:52859
+1513854062506	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1513854064454	Marionette	INFO	Enabled via --marionette
+1513854070039	Marionette	INFO	Listening on port 46132
+JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: TypeError:  is not a valid URL.
+1513854070167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513854070510	Marionette	DEBUG	Register listener.js for window 2147483649
+1513854070714	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513854073001	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513854073004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://s.591.com.tw/lib/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1513854076206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rent.591.com.tw/?kind=4oarea=0,10&floor=0,0&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&rentprice=0,12000"
+1513854087167	Marionette	DEBUG	Received DOM event "pageshow" for "https://rent.591.com.tw/?kind=4oarea=0,10&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&region=1&rentprice=0,12000&floor=0,0"
+1513854097520	Marionette	DEBUG	Received DOM event "popstate" for "https://rent.591.com.tw/?kind=4oarea=0,10&keyword=%E8%90%AC%E8%8A%B3%E9%86%AB%E9%99%A2&no_cover=1&region=1&rentprice=0,12000&floor=0,0#"
+1513854102916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513854107516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513854116693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513854123943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513854152873	geckodriver	INFO	geckodriver 0.18.0
+1513854152895	geckodriver	INFO	Listening on 127.0.0.1:53842
+1513854154371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
