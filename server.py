@@ -50,7 +50,8 @@ def handle_incoming_messages():
                                 # let's scrape
                                 df = clicking(user_data.loc[sender_id, :])
                                 return_search(sender_id, df)
-                        if 'SEARCH' not in messaging_event['message']['quick_reply']['payload']:
+                                print("do nothing")
+                        elif 'SEARCH' not in messaging_event['message']['quick_reply']['payload']:
                             col = messaging_event['message']['quick_reply']['payload'].split('_')[0]
                             val = messaging_event['message']['quick_reply']['payload'].split('_')[1]
                             user_data.loc[str(sender_id), col] = val
@@ -97,8 +98,10 @@ def last_confirm(sender_id):
     send_quick_reply(sender_id, quick_reply_json(list_to_dict(search_clean, 'CONFIRM')),text_for_old_usr)
 def return_search(sender_id, df):
     send_text_message(sender_id,'來嚕來嚕')
-    for i in list(df['url']):
-        send_text_message(sender_id, i)
+    for i in list(df.index):
+        house_info = df.loc[i, 'title'] + '\n\n' +'價格: '+ df.loc[i, 'price'] + '\n' +'地點: '+ df.loc[i, 'address'] + '\n' + df.loc[i, 'url']
+        send_text_message(sender_id,str(house_info))
+        
     send_text_message(sender_id, '沒了ㄏㄏ')
 def send_quick_reply(sender_id, options, text_message):
     # Send the message text to recipient with id recipient.
