@@ -1,6 +1,6 @@
-#import selenium
+
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, ElementNotInteractableException, StaleElementReferenceException
 from selenium.webdriver.common.keys import Keys
 # import time that will help our scraper wait
 import time
@@ -27,32 +27,37 @@ def crawler(browser):
         browser.execute_script('window.scrollTo(0, document.body.scrollHeight);')
         i = 0
         for name in soup.select('h3 a'):
+            print(name, name.get('href'))
             page_data.loc[str(i), 'title']  = name.text # returning title of that house)
+            page_data.loc[str(i), 'url']  = name.get('href') # returning title of that house)
+
             i +=1
+            
         i = 0
         for address in soup.select('p.lightBox em'):
             page_data.loc[str(i), 'address'] = address.text # returning address
             i +=1
         i = 0
         for price in soup.select('.price i'):
-            page_data.loc[str(i), 'address'] = price.text # returning address 
+            page_data.loc[str(i), 'price'] = price.text # returning address 
             i += 1
         df = df.append(page_data)
 
         
-        if len(soup.select('.pageBar .last')) > 0:
+        if len(df.index) > 10:
+            return(df)
             break
-        browser.find_element_by_class_name('pageNext').click()
+        elif len(soup.select('.pageBar .last')) > 0:
+            break
 
+        # try clicking next page
+        try:
+            browser.find_element_by_class_name('pageNext').click()
+        except (NoSuchElementException, ElementNotInteractableException, StaleElementReferenceException):
+            print("last page or only one page")
         soup = BeautifulSoup(browser.page_source, "lxml")
 
     return(df)
-
-    
-# open browser(Firefox)
-
-
-# get to the target page
 
 # click all params
 def clicking(user_series):
@@ -65,7 +70,7 @@ def clicking(user_series):
                     '分租套房': "3",
                     '雅房': "4",}
     
-    url = url + 'kind=' + type_to_span[user_series["housetype"]] + '&region=1&'
+    url = url + 'kind=' + type_to_span[user_series["housetype"]] + 'o'
     
     # choose the size
     
@@ -93,15 +98,27 @@ def clicking(user_series):
         if user_series['cook'] == '是':
             url = url + '&other=cook'
     
+    # add keyword
+    url = url + '&keyword=' + user_series['keyword']
+
+    # add rooftop
+    if user_series['rooftop'] == '是':
+        url = url + '&no_cover=1'
+
+    # ad budegt
+    if user_series['budgetMax'] != '我太有錢':
+        url = url + '&rentprice=0,' + user_series['budgetMax']
+        
+
     # open window and link to 591
     print("loading url", url, ' into browser Firefox')
     browser = webdriver.Firefox()
     browser.get(url)
     
-    time.sleep(1)
     print('start to click')
 
     # close the advertisement window
+    print(browser.find_element_by_id("area-box-close"))
     browser.find_element_by_id("area-box-close").click()
     
     
@@ -113,30 +130,8 @@ def clicking(user_series):
     xpath = u"(//a[contains(text(),"+ user_series['city']+u")])[2]"
     browser.find_element_by_xpath(xpath).click()
 
-    # choose keyword
-    keyword_bar = browser.find_element_by_class_name('searchInput')
-    keyword_bar.send_keys(user_series['keyword'])
-    browser.find_element_by_class_name("searchBtn").click()
-    time.sleep(3)
-    browser.find_element_by_class_name("searchBtn").click()
     
-    # rule out rooftop add-ons
-    if user_series['rooftop'] == '是':
-        browser.find_element_by_xpath("//div[@id='container']/section[3]/section/div[6]/ul/li[2]/label").click()
-
-    time.sleep(1)
-
     
-    # choose the budget
-    if user_series['budgetMax'] != '我太有錢':
-        custom_min_bar = browser.find_element_by_class_name('rentPrice-min')
-        if type(user_series['budgetMin']) == str: 
-            custom_min_bar.send_keys(user_series['budgetMin'])
-        else:
-            custom_min_bar.send_keys('0')
-            
-        custom_max_bar = browser.find_element_by_class_name('rentPrice-max')
-        custom_max_bar.send_keys(user_series['budgetMax'])
         
             
 
@@ -149,5 +144,5 @@ def clicking(user_series):
     #close the browser
     browser.quit()
 
-def quit_browser():
-    browser.quit()
+
+
