@@ -48,9 +48,10 @@ def handle_incoming_messages():
                                 main_way(sender_id)
                             else:
                                 # let's scrape
-                                df = clicking(user_data.loc[sender_id, :])
-                                return_search(sender_id, df)
-                                print("do nothing")
+                                
+                                title, web_url, address, price = clicking(user_data.loc[sender_id, :])
+                                return_search(sender_id, title, web_url, address, price)
+                                print("house info sent")
                         elif 'SEARCH' not in messaging_event['message']['quick_reply']['payload']:
                             col = messaging_event['message']['quick_reply']['payload'].split('_')[0]
                             val = messaging_event['message']['quick_reply']['payload'].split('_')[1]
@@ -96,10 +97,10 @@ def last_confirm(sender_id):
     user_data = pd.read_pickle("./user_data")
     text_for_old_usr = '最後確認搜尋紀錄\n\n'+str(user_data.loc[str(sender_id), :])+'\n\n是否要清除搜尋條件?'
     send_quick_reply(sender_id, quick_reply_json(list_to_dict(search_clean, 'CONFIRM')),text_for_old_usr)
-def return_search(sender_id, df):
+def return_search(sender_id, title, web_url, address, price):
     send_text_message(sender_id,'來嚕來嚕')
-    for i in list(df.index):
-        house_info = df.loc[i, 'title'] + '\n\n' +'價格: '+ df.loc[i, 'price'] + '\n' +'地點: '+ df.loc[i, 'address'] + '\n' + df.loc[i, 'url']
+    for i in range(len(web_url)):
+        house_info = str(title[i]) + '\n\n' +'價格: '+ str(price[i]) + '\n' +'地點: '+ str(address[i]) + '\n' + str(web_url[i])
         send_text_message(sender_id,str(house_info))
         
     send_text_message(sender_id, '沒了ㄏㄏ')
@@ -130,7 +131,7 @@ def send_text_message(sender_id, message_text):
         headers={'Content-type': 'application/json'})
     if r.status_code != requests.codes.ok:
         print(r.text)
-    
+   
 
 def main_way(sender_id):
     # load latest userdata
